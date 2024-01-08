@@ -1,0 +1,34 @@
+ShapiroResult(statistic=0.16837453842163086, pvalue=5.951906877591947e-31)
+
+SMPL66_1_before vs SMPL4_1_after:
+U-Statistic mannwhitneyu: 24.0
+p-value mannwhitneyu: 0.07838899312569846
+T-Statistic Welch's t-test: -3.3686942027219295
+p-value (T-test) Welch's t-test: 0.0011369621518872994
+Kruskal-Wallis Statistic: 3.1485692301569284
+p-value (Kruskal-Wallis): 0.07599356930272201
+F-Statistic (ANOVA): 0.2609456294932891
+p-value (ANOVA): 0.6107800952232589
+p-value (Permutation test): 0.1845815418458154
+
+
+SMPL76_3_before vs SMPL24_3_after:
+Одна из групп содержит слишком мало значений для анализа.T-Statistic Welch's t-test: nan
+p-value (T-test) Welch's t-test: nan
+Kruskal-Wallis Statistic: nan
+p-value (Kruskal-Wallis): nan
+F-Statistic (ANOVA): nan
+p-value (ANOVA): nan
+p-value (Permutation test): 9.999000099990002e-05
+
+
+SMPL67_4_before vs SMPL92_4_after:
+U-Statistic mannwhitneyu: 30.5
+p-value mannwhitneyu: 0.16775831791264262
+T-Statistic Welch's t-test: -2.219152132828663
+p-value (T-test) Welch's t-test: 0.02966763925716417
+Kruskal-Wallis Statistic: 1.9495562805941251
+p-value (Kruskal-Wallis): 0.16263467374093973
+F-Statistic (ANOVA): 0.13509059958611833
+p-value (ANOVA): 0.7142894502534967
+p-value (Permutation test): 0.19538046195380462
