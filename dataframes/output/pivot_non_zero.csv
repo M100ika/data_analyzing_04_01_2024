@@ -1,0 +1,89 @@
+	Taxonomy	SMPL24_SMPL24_3_after	SMPL4_SMPL4_1_after	SMPL66_SMPL66_1_before	SMPL67_SMPL67_4_before	SMPL76_SMPL76_3_before	SMPL92_SMPL92_4_after
+0	f_Eggerthellaceae	3	0	0	0	0	0
+1	g_Gordonibacter	0	1	0	0	0	0
+2	o_Bacteroidales	0	1	0	0	3	0
+3	g_Bacteroides	1	10	0	2	0	0
+4	s_Bacteroides dorei	13	15	0	0	8	4
+5	s_Bacteroides fragilis 638R	0	3	0	0	1	0
+6	s_Bacteroides uniformis	0	3	0	0	0	1
+7	s_uncultured organism	10	0	0	0	10	0
+8	g_Odoribacter	0	2	0	0	0	0
+9	f_Muribaculaceae	0	1	0	0	0	0
+10	s_Porphyromonas endodontalis ATCC 35406	0	3	0	0	0	0
+11	g_Prevotella 7	2	0	0	0	0	0
+12	s_gut metagenome	0	123	0	0	155	17
+13	s_human gut metagenome	1	3	0	0	0	4
+14	s_Prevotella buccalis	0	5	0	0	1	0
+15	g_Alistipes	4	9	0	0	0	1
+16	s_gut metagenome	0	6	0	0	5	0
+17	g_Gemella	0	0	0	0	0	1
+18	g_Granulicatella	0	0	0	0	0	23
+19	g_Enterococcus	0	0	1	0	0	0
+20	g_Lactobacillus	0	4	0	0	0	1
+21	g_Streptococcus	0	5	0	0	1	121
+22	s_Streptococcus parasanguinis CC87K	0	0	0	0	0	2
+23	o_Clostridiales	58	2	0	0	1	0
+24	g_Christensenellaceae R-7 group	9	31	0	0	0	2
+25	s_gut metagenome	0	9	0	0	0	0
+26	g_Eubacterium	0	0	0	0	0	3
+27	g_Family XIII AD3011 group	0	0	0	0	0	1
+28	g_Ezakiella	2	0	0	0	0	0
+29	f_Lachnospiraceae	0	34	0	0	2	1620
+30	g_Agathobacter	0	0	0	0	0	4
+31	s_Eubacterium ramulus	0	0	0	0	0	4
+32	g_Blautia	0	3	0	0	0	27
+33	s_metagenome	0	0	0	0	0	2
+34	g_Coprococcus 1	0	0	0	0	0	1
+35	g_Coprococcus 2	0	30	0	0	0	25
+36	g_Fusicatenibacter	1	6	0	0	2	73
+37	s_uncultured Firmicutes bacterium	0	0	0	0	0	8
+38	g_Lachnoclostridium	2	8	0	0	1	15
+39	s_human gut metagenome	0	0	0	0	0	5
+40	s_metagenome	0	0	0	0	0	1
+41	g_Lachnospiraceae NK4A136 group	1	5	0	0	0	65
+42	g_Lachnospiraceae UCG-004	0	4	0	0	0	1
+43	g_Lachnospira	0	5	0	0	0	0
+44	g_Roseburia	0	9	0	0	0	39
+45	g_[Eubacterium] hallii group	0	11	0	0	0	74
+46	s_gut metagenome	0	0	0	0	0	7
+47	s_human gut metagenome	0	0	0	0	0	39
+48	g_[Ruminococcus] gauvreauii group	0	1	0	0	0	0
+49	g_Clostridioides	0	2	0	0	0	2
+50	g_Romboutsia	0	2	0	0	0	2
+51	f_Ruminococcaceae	31	49	0	0	0	4
+52	g_Anaerofilum	1	0	0	0	0	0
+53	s_Anaerotruncus colihominis DSM 17241	0	1	0	0	0	0
+54	g_Butyricicoccus	0	0	0	0	0	7
+55	g_DTU089	23	0	0	0	0	0
+56	g_Faecalibacterium	0	1	1	0	0	431
+57	s_bacterium ic1340	1	0	0	0	0	0
+58	s_uncultured Flavonifractor sp.	1	0	0	0	0	0
+59	s_uncultured organism	149	0	0	0	0	0
+60	g_Ruminiclostridium 5	0	2	0	0	0	0
+61	g_Ruminiclostridium 6	1	0	0	0	0	0
+62	s_[Eubacterium] siraeum DSM 15702	0	2	0	0	0	0
+63	s_Anaerostipes hadrus	0	1	0	0	0	0
+64	g_Ruminococcaceae UCG-002	11	8	0	0	0	3
+65	s_gut metagenome	0	6	0	0	0	1
+66	s_uncultured rumen bacterium	19	0	0	0	0	0
+67	g_Ruminococcaceae UCG-003	0	0	0	0	0	1
+68	g_Ruminococcaceae UCG-004	0	2	0	0	0	0
+69	g_Ruminococcaceae UCG-005	33	14	0	0	0	0
+70	g_Ruminococcaceae UCG-010	5	0	0	0	0	0
+71	s_uncultured Ruminococcaceae bacterium	0	0	0	0	0	1
+72	g_Ruminococcaceae UCG-013	67	0	0	0	0	0
+73	g_Ruminococcaceae UCG-014	0	1	0	0	0	0
+74	g_Ruminococcus 1	5	1	0	0	0	0
+75	s_Ruminococcus callidus ATCC 27760	0	17	0	0	0	1
+76	g_Ruminococcus 2	13	1	0	0	0	87
+77	g_[Eubacterium] coprostanoligenes group	21	1	0	0	0	0
+78	s_human gut metagenome	0	31	0	0	0	9
+79	g_Erysipelotrichaceae UCG-003	0	0	0	0	0	2
+80	s_gut metagenome	1	2	0	0	2	55
+81	g_Dialister	66	7	0	1	0	0
+82	s_Veillonella dispar	0	1	0	0	4	15
+83	g_Victivallis	0	1	0	0	0	0
+84	g_gut metagenome	0	4	0	0	0	0
+85	s_Desulfovibrio sp. X2	7	19	0	0	4	0
+86	g_Escherichia-Shigella	0	2	0	0	0	0
+87	g_Haemophilus	0	0	0	0	0	2

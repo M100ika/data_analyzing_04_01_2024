@@ -1,5 +1,3 @@
-ShapiroResult(statistic=0.16837453842163086, pvalue=5.951906877591947e-31)
-
 SMPL66_1_before vs SMPL4_1_after:
 U-Statistic mannwhitneyu: 24.0
 p-value mannwhitneyu: 0.07838899312569846
