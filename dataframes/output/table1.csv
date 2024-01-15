@@ -1,0 +1,19 @@
+	Taxonomy	SMPL4_SMPL4_1_after	SMPL66_SMPL66_1_before
+0	d_Bacteria|p_Actinobacteria|c_Actinobacteria|o_Bifidobacteriales|f_Bifidobacteriaceae|g_?|s_?	0	0
+1	d_Bacteria|p_Actinobacteria|c_Actinobacteria|o_Bifidobacteriales|f_Bifidobacteriaceae|g_Bifidobacterium|s_?	0	0
+2	d_Bacteria|p_Actinobacteria|c_Actinobacteria|o_Bifidobacteriales|f_Bifidobacteriaceae|g_Scardovia|s_?	0	0
+3	d_Bacteria|p_Firmicutes|c_Bacilli|o_Lactobacillales|f_Aerococcaceae|g_Abiotrophia|s_?	0	0
+4	d_Bacteria|p_Firmicutes|c_Bacilli|o_Lactobacillales|f_Aerococcaceae|g_Facklamia|s_?	0	0
+5	d_Bacteria|p_Firmicutes|c_Bacilli|o_Lactobacillales|f_Carnobacteriaceae|g_Carnobacterium|s_?	0	0
+6	d_Bacteria|p_Firmicutes|c_Bacilli|o_Lactobacillales|f_Carnobacteriaceae|g_Dolosigranulum|s_?	0	0
+7	d_Bacteria|p_Firmicutes|c_Bacilli|o_Lactobacillales|f_Carnobacteriaceae|g_Granulicatella|s_?	0	0
+8	d_Bacteria|p_Firmicutes|c_Bacilli|o_Lactobacillales|f_Enterococcaceae|g_Enterococcus|s_?	0	1
+9	d_Bacteria|p_Firmicutes|c_Bacilli|o_Lactobacillales|f_Lactobacillaceae|g_Lactobacillus|s_?	4	0
+10	d_Bacteria|p_Firmicutes|c_Bacilli|o_Lactobacillales|f_Lactobacillaceae|g_Lactobacillus|s_Lactobacillus helveticus R0052	0	0
+11	d_Bacteria|p_Firmicutes|c_Bacilli|o_Lactobacillales|f_Leuconostocaceae|g_Leuconostoc|s_uncultured Leuconostoc sp.	0	0
+12	d_Bacteria|p_Firmicutes|c_Bacilli|o_Lactobacillales|f_Leuconostocaceae|g_Weissella|s_Weissella cibaria	0	0
+13	d_Bacteria|p_Firmicutes|c_Bacilli|o_Lactobacillales|f_Streptococcaceae|g_Lactococcus|s_?	0	0
+14	d_Bacteria|p_Firmicutes|c_Bacilli|o_Lactobacillales|f_Streptococcaceae|g_Streptococcus|s_?	5	0
+15	d_Bacteria|p_Firmicutes|c_Bacilli|o_Lactobacillales|f_Streptococcaceae|g_Streptococcus|s_Streptococcus gallolyticus	0	0
+16	d_Bacteria|p_Firmicutes|c_Bacilli|o_Lactobacillales|f_Streptococcaceae|g_Streptococcus|s_Streptococcus parasanguinis CC87K	0	0
+17	d_Bacteria|p_Firmicutes|c_Bacilli|o_Lactobacillales|f_Streptococcaceae|g_Streptococcus|s_Streptococcus sobrinus	0	0
